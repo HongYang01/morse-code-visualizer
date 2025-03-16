@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 300" xmlns:bx="https://boxy-svg.com">
+  <path d="M 155.421 -42.663 L 166.09 -24.881 L 144.752 -24.881 L 155.421 -42.663 Z"
+    bx:shape="triangle 144.752 -42.663 21.338 17.782 0.5 0 1@b0d188d5"
+    style="stroke: rgb(0, 0, 0); fill: rgba(216, 216, 216, 0);"
+    transform="matrix(1, 0, 0, -1, 0, 0)" id="startnode" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="155.395" y1="24.743"
+    x2="155.381" y2="60.746" id="startpath" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 165.96px 57.329px;"
+    x1="174.482" y1="57.35" x2="157.438" y2="57.306" id="to-E" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 144.783px 57.277px;"
+    x1="144.805" y1="48.777" x2="144.761" y2="65.777" id="to-T"
+    transform="matrix(0, 1, -1, 0, -0.000009, 0.00001)" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="180.17" cy="57.33" rx="5.366"
+    ry="5.366" id="im-E" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="209.553" y1="62.537"
+    x2="209.507" y2="80.537" id="to-U" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="209.614" cy="57.33"
+    rx="5.366" ry="5.366" id="im-I" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="239.058" cy="57.33"
+    rx="5.366" ry="5.366" id="im-S" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="268.502" cy="57.33"
+    rx="5.366" ry="5.366" id="im-H" />
+  <rect x="204.401" y="81.043" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3;" id="im-U" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="209.719" cy="128.409"
+    rx="5.366" ry="5.366" id="im-F" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="209.599" y1="105.043"
+    x2="209.553" y2="123.043" id="to-F" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 194.808px 57.33px;"
+    x1="203.808" y1="57.353" x2="185.808" y2="57.307" id="to-I" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 224.286px 57.33px;"
+    x1="233.286" y1="57.353" x2="215.286" y2="57.307" id="to-S" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 253.764px 57.33px;"
+    x1="262.764" y1="57.353" x2="244.764" y2="57.307" id="to-H" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="239.048" y1="62.537"
+    x2="239.002" y2="80.537" id="to-V" />
+  <rect x="233.896" y="81.043" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3;" id="im-V" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="180.284" y1="62.543"
+    x2="180.056" y2="152.543" id="to-A" />
+  <rect x="175.041" y="152.003" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3;" id="im-A" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="210.062" cy="164.539"
+    rx="5.366" ry="5.366" id="im-R" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="239.539" cy="164.539"
+    rx="5.366" ry="5.366" id="im-L" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 195.001px 164.539px;"
+    x1="204.323" y1="164.562" x2="185.679" y2="164.516" id="to-R" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 224.801px 164.539px;"
+    x1="233.801" y1="164.562" x2="215.801" y2="164.516" id="to-L" />
+  <rect x="175.041" y="208.972" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3;" id="im-W" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="209.852" cy="220.972"
+    rx="5.366" ry="5.366" id="im-P" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 194.791px 220.972px;"
+    x1="204.113" y1="220.995" x2="185.469" y2="220.949" id="to-P" />
+  <rect x="175.041" y="251.257" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3;" id="im-J" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-box: fill-box; transform-origin: 50% 50%;"
+    transform="matrix(0, 1, -1, 0, -6.87133, -46.484388)" id="im-T" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -49.44265, -46.484604)" id="im-M" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -92.013527, -46.48455)" id="im-O" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="81.468" cy="93.043"
+    rx="5.366" ry="5.366" id="im-G" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="81.468" cy="128.113"
+    rx="5.366" ry="5.366" id="im-Z" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="123.63" cy="164.539"
+    rx="5.366" ry="5.366" id="im-N" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -49.543282, 60.487663)" id="im-K" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -92.777687, 60.487633)" id="im-Y" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -92.777687, -10.771351)" id="im-Q" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="81.367" cy="192.411"
+    rx="5.366" ry="5.366" id="im-C" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="123.63" cy="220.972"
+    rx="5.366" ry="5.366" id="im-D" />
+  <rect x="125.781" y="91.814" width="10.258" height="24" rx="4" ry="4"
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-miterlimit: 3; transform-origin: 130.91px 103.814px;"
+    transform="matrix(0, 1, -1, 0, -49.425606, 117.157623)" id="im-X" />
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="123.493" cy="263.257"
+    rx="5.366" ry="5.366" id="im-B" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 102.753px 57.33px;"
+    x1="111.753" y1="57.353" x2="93.753" y2="57.307" id="to-M" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 60.182px 57.33px;"
+    x1="69.182" y1="57.353" x2="51.182" y2="57.307" id="to-O" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 63.135px 93.043px;"
+    x1="63.167" y1="80.044" x2="63.104" y2="106.044" id="to-Q"
+    transform="matrix(0, 1, -1, 0, -0.000002, 0)" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 81.291px 75.024px;"
+    x1="81.26" y1="62.77" x2="81.322" y2="87.278" id="to-G" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 81.398px 110.605px;"
+    x1="81.367" y1="98.351" x2="81.429" y2="122.859" id="to-Z" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="124.001" y1="62.543"
+    x2="123.781" y2="159.025" id="to-N" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 105.731px 164.696px;"
+    x1="117.92" y1="164.724" x2="93.543" y2="164.666" id="to-K" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 59.762px 164.331px;"
+    x1="69.084" y1="164.353" x2="50.44" y2="164.308" id="to-Y" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="81.463" y1="169.508" x2="81.417"
+    y2="187.508" id="to-C" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="180.254" y1="176.181"
+    x2="180.171" y2="208.608" id="to-W" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="180.153" y1="233.343"
+    x2="180.107" y2="251.343" id="to-J" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="123.698" y1="170.214"
+    x2="123.613" y2="215.214" id="to-D" />
+  <line style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" x1="123.602" y1="226.346"
+    x2="123.547" y2="257.6" id="to-B" />
+  <line
+    style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); transform-origin: 105.937px 220.967px;"
+    x1="118.126" y1="220.995" x2="93.749" y2="220.937" id="to-X" />
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="177.958" y="47.852" id="im-text-E">E</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="208.08" y="47.852" id="im-text-I">I</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="236.599" y="47.852" id="im-text-S">S</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="265.619" y="47.852" id="im-text-H">H</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="194.99" y="97.777" id="im-text-U">U</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="247.495" y="97.777" id="im-text-V">V</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="218.097" y="133.809" id="im-text-F">F</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="165.362" y="169.515" id="im-text-A">A</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="207.31" y="184.476" id="im-text-R">R</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="247.495" y="169.515" id="im-text-L">L</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="164.094" y="226.286" id="im-text-W">W</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="217.921" y="225.996" id="im-text-P">P</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="188.862" y="268.512" id="im-text-J">J</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="36.13" y="47.852" id="im-text-O">O</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="77.671" y="47.852" id="im-text-M">M</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="122.196" y="47.852" id="im-text-T">T</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="89.771" y="98.286" id="im-text-G">G</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="90.5" y="133.553" id="im-text-Z">Z</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="35.366" y="112.293" id="im-text-Q">Q</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="35.667" y="155.866" id="im-text-Y">Y</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="78.696" y="155.866" id="im-text-K">K</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="131.771" y="169.515" id="im-text-N">N</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="89.447" y="197.368" id="im-text-C">C</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="60.888" y="225.699" id="im-text-X">X</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="131.946" y="226.286" id="im-text-D">D</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Antonio; font-size: 12px; white-space: pre;"
+    x="109.171" y="268.512" id="im-text-B">B</text>
+  <defs>
+    <style bx:fonts="Antonio">
+      @import
+      url(https://fonts.googleapis.com/css2?family=Antonio%3Aital%2Cwght%400%2C100..700&amp;display=swap);</style>
+  </defs>
+</svg>

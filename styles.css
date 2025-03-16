@@ -1,0 +1,237 @@
+:root {
+	--primary-bg: #3d4833;
+	--text-color: #ecdfcc;
+	--button-color: #5299d3;
+	--button-active: #0056b3;
+	--output-bg: #ecdfcc;
+	--output-text: #333;
+	--modal-overlay: rgba(0, 0, 0, 0.8);
+	--shadow-color: rgba(0, 0, 0, 0.5);
+	--shadow-light: rgba(0, 0, 0, 0.6);
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	background-color: var(--primary-bg);
+	display: flex;
+	padding: 15px;
+	flex-direction: column;
+	align-items: center;
+	text-align: center;
+	user-select: none;
+}
+
+.header {
+	margin-bottom: 0;
+	align-self: flex-start;
+	text-align: left;
+}
+
+h1 {
+	font-size: 24px;
+	color: var(--text-color);
+	margin-bottom: 0.5rem;
+}
+
+p {
+	font-size: 12px;
+	color: var(--text-color);
+	margin: 0;
+}
+
+a {
+	color: var(--text-color);
+	text-decoration: underline;
+}
+
+main {
+	position: relative;
+	width: 100%;
+	max-width: 450px;
+	/* margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center; */
+}
+
+.svg-container {
+	width: 100%;
+	max-width: 450px;
+}
+
+svg {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+.output-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	min-height: 120px;
+	max-height: 120px;
+	padding: 15px;
+	background: var(--output-bg);
+	border-radius: 10px;
+	box-shadow: 0 0 10px var(--shadow-color);
+	text-align: center;
+}
+
+.text-output {
+	font-size: 24px;
+	font-weight: bold;
+	color: var(--output-text);
+	margin-top: 10px;
+	word-wrap: break-word;
+	overflow-y: auto;
+	max-height: 100px;
+	/* max-width: 400px; */
+	border: none;
+	padding: 0;
+}
+
+.button-container {
+	display: grid;
+	grid-template-columns: 1fr 3fr;
+	grid-gap: 15px;
+	width: 100%;
+	margin-top: 15px;
+}
+
+.btn {
+	cursor: pointer;
+	border-radius: 10px;
+	border: none;
+	box-shadow: 0 0 10px var(--shadow-color);
+	padding: 15px 30px;
+	font-size: 21px;
+	font-weight: bold;
+	background: var(--button-color);
+	color: white;
+	transition: background-color 0.2s ease;
+}
+
+.btn:active {
+	background: var(--button-active);
+}
+
+.btn:disabled {
+	opacity: 0.7;
+	cursor: not-allowed;
+}
+
+button.settings-icon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 42px;
+	height: 42px;
+	background: var(--button-color);
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+	z-index: 1000;
+	box-shadow: 0 2px 5px var(--shadow-light);
+}
+
+.settings-icon svg {
+	width: 24px;
+	height: 24px;
+}
+
+.modal {
+	display: none;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.modal-open {
+	display: flex;
+	background: var(--modal-overlay);
+	border: none;
+	width: 100%;
+	height: 100%;
+	align-items: center;
+	justify-content: center;
+}
+
+.modal-content {
+	background: var(--primary-bg);
+	padding: 20px;
+	border-radius: 10px;
+	width: 75%;
+	max-width: 350px;
+}
+
+.modal-content h2 {
+	color: var(--text-color);
+	margin-bottom: 20px;
+}
+
+.setting-group {
+	margin-bottom: 20px;
+}
+
+.setting-group label {
+	display: block;
+	margin-bottom: 5px;
+	color: var(--text-color);
+}
+
+.setting-group input[type="range"] {
+	width: 100%;
+	margin-bottom: 5px;
+	cursor: pointer;
+	background-color: var(--button-color);
+}
+
+.setting-value {
+	color: var(--button-color);
+	font-weight: bold;
+}
+
+.modal-buttons {
+	display: flex;
+	justify-content: flex-end;
+	gap: 10px;
+	margin-top: 20px;
+}
+
+.modal-btn {
+	padding: 8px 16px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: opacity 0.2s ease;
+}
+
+.modal-btn:hover {
+	opacity: 0.9;
+}
+
+.save-button {
+	background: var(--button-color);
+	color: white;
+}
+
+.cancel-button {
+	background: var(--text-color);
+	color: var(--primary-bg);
+}
